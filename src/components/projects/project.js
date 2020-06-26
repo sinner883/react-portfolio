@@ -12,7 +12,7 @@ export default class Header extends Component {
                             <div className="twelve columns">
                                 <h3>Carrate - recipe web app</h3>
                                 <p className="info"><span>•</span> <em className="date">1 month project</em></p>
-                                <a href="https://carrate.herokuapp.com/">
+                                <a href="https://carrate.herokuapp.com/" target="_black">
                                     <img src="https://fontmeme.com/permalink/200625/7548fee49a4e952af37f400aad4fbf01.png" 
                                          alt="netflix-font" border="0" width="200px"/>
                                 </a>
@@ -27,7 +27,7 @@ export default class Header extends Component {
                             <div className="twelve columns">
                                 <h3>Maxflix</h3>
                                 <p className="info">Video Library<span>•</span> <em className="date">1 month project</em></p>
-                                <a href="https://kodiri-maxflix.herokuapp.com/">
+                                <a href="https://kodiri-maxflix.herokuapp.com/" target="_black">
                                     <img src="https://fontmeme.com/permalink/200625/6e8754f9b03bd7bd5f2c0d93d765bc0c.png" 
                                          alt="netflix-font" border="0" width="200px"/>
                                 </a>
